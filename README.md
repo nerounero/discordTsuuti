@@ -4,6 +4,9 @@
 DiscordSRVとは違い、botを作成する手間がかからない分お手軽だと思います。  
 プラグイン制作初心者のため、機能は最低限です。すまんそ。  
 
+![image](https://github.com/user-attachments/assets/3f850cdd-1e35-4709-b469-8dadff41f60a)
+
+
 ## 設定
 pluginsフォルダの中にdiscordTsuutiというフォルダができて、その中に`config.yml`,`ja-jp.yml`,`en-us.yml`が作成されます。  
 いじるべきファイルは`config.yml`ですかね。  
