@@ -1,0 +1,4 @@
+server-start: "The server has started!"
+server-stop: "The server has stopped."
+player-join: "%s has joined the server."
+player-quit: "%s has left the server."

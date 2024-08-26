@@ -1,0 +1,4 @@
+name: discordTsuuti
+version: '${project.version}'
+main: com.nerounero.discordtsuuti.DiscordTsuuti
+api-version: '1.19'

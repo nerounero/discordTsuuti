@@ -1,0 +1,4 @@
+server-start: "サーバーが起動しました！"
+server-stop: "サーバーが停止しました。"
+player-join: "%s がサーバーに参加しました。"
+player-quit: "%s がサーバーから退出しました。"

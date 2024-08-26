@@ -1,0 +1,15 @@
+# The webhook URL to send Discord notifications.
+webhook-url: "https://discord.com/api/webhooks/your-webhook-url"
+
+# The name of the bot that will appear in Discord notifications.
+bot-name: "ServerBot"
+
+# Colors for different types of notifications. Specify the color in RGB hex format.
+colors:
+  server-start: "#00FF00" # Notification color when the server starts (green).
+  server-stop: "#FF0000"  # Notification color when the server stops (red).
+  player-join: "#00FF00"  # Notification color when a player joins (green).
+  player-quit: "#FFFF00"  # Notification color when a player quits (yellow).
+
+# The language file to use (ja-jp.yml, en-us.yml, etc.).
+language: "ja-jp"
