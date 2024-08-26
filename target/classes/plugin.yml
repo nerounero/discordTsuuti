@@ -1,4 +1,0 @@
-name: discordTsuuti
-version: '1.0-SNAPSHOT'
-main: com.nerounero.discordtsuuti.DiscordTsuuti
-api-version: '1.19'
